@@ -1,5 +1,5 @@
 # Battery
-Questo programma è un'applicazione GUI per il monitoraggio delle batterie. Consente agli utenti di effettuare il login, visualizzare lo stato di carica delle batterie, tracciare grafici della carica delle batterie e monitorare il voltaggio delle batterie.
+Questo programma è un'applicazione GUI per il monitoraggio delle batterie. Consente agli utenti di effettuare il login, visualizzare lo stato di carica delle batterie, tracciare grafici della carica delle batterie e monitora il voltaggio delle batterie.
 
 Per eseguire il programma, avviare il file `main.py` e inserire le credenziali di accesso (username: admin, password: password) nella finestra di login.
 
